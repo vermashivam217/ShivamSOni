@@ -33,9 +33,7 @@ My proficiency extends to versioning tools like Bitbucket, Github, and Git, Reac
 
 My skills include Commercetools Compassable Commerce, Data migration, Categories creation, Products Import from PIM, Product Update and Delete, SAP Orders Import, Creating Custom Fields, Custom Objects, and Custom Application, Adding shipments options and shipping info, Inventory sync for product variants, Azure Services such as Function Apps, Webapps, Service Bus, Event Hubs, Event Grids, Storage services, Application insights, and more.
 
-I hold a Microsoft Certified Azure Fundamentals (AZ-900) certification and a CommereceTools Certified Associate JavaScript Developer certification. I am currently working as a Software Developer at Alt Digital Technologies, Noida, UP, collaborating with project managers to provide solutions for businesses using Azure Cloud Services and CommerceTools framework. I also work on Test Driven Development using Jest, Nock, and Sonarcloud.
-
-Previously, as a Software Developer Intern at Alt Digital Technologies, Noida, UP, I learned software engineering process improvements and best practices. I analyzed source code, resolved functionality issues, and contributed to network feature upgrades.
+I hold a Microsoft Certified Azure Fundamentals (AZ-900) certification and a CommereceTools Certified Associate JavaScript Developer certification. I also work on Test Driven Development using Jest, Nock, and Sonarcloud.
 
 
 I've had the opportunity to work with and learn about a variety of tools, technologies, libraries, and practices throughout my career so far. Some of these have included:
@@ -55,6 +53,7 @@ I've had the opportunity to work with and learn about a variety of tools, techno
 - Docker
 - Kubernetes
 - Commercetools
+- Sonarcloud
 
 ---
 
