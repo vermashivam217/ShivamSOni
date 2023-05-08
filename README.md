@@ -77,7 +77,7 @@ I've had the opportunity to work with and learn about a variety of tools, techno
 
   ---
 
-### :fire: My Stats :
+### :fire: My Status :
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vermashivam217&theme=dark&background=000000)](https://git.io/streak-stats)
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermashivam217&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
