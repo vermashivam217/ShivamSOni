@@ -45,13 +45,11 @@ I've had the opportunity to work with and learn about a variety of tools, techno
 - Express.js
 - Jest
 - MongoDB, CosmosDB
-- Nginx
 - HTML, CSS
 - ReactJS
 - Azure Function
 - Azure DevOps
 - Docker
-- Kubernetes
 - Commercetools
 - Sonarcloud
 
@@ -71,7 +69,6 @@ I've had the opportunity to work with and learn about a variety of tools, techno
  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 
   ---
