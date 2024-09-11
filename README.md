@@ -46,7 +46,7 @@ I've had the opportunity to work with and learn about a variety of tools, techno
 - Jest
 - MongoDB, CosmosDB
 - HTML, CSS
-- ReactJS
+- React.js
 - Azure Function
 - Azure DevOps
 - Docker
